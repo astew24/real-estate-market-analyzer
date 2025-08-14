@@ -339,3 +339,4 @@ import plotly.graph_objects as go
 # Export functionality for reports
 # Performance optimizations
 # Add caching for expensive operations
+# Improve user interface
