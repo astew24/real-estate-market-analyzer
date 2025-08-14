@@ -338,3 +338,4 @@ import plotly.graph_objects as go
 # Date range filtering functionality
 # Export functionality for reports
 # Performance optimizations
+# Add caching for expensive operations
