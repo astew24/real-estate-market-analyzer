@@ -340,3 +340,4 @@ import plotly.graph_objects as go
 # Performance optimizations
 # Add caching for expensive operations
 # Improve user interface
+# Add dark mode support
