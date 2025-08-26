@@ -352,3 +352,4 @@ import plotly.graph_objects as go
 # Add multiple chart types
 # Implement date filtering
 # Add PDF export functionality
+# Fix mobile responsiveness issues
