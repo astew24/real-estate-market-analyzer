@@ -343,3 +343,4 @@ import plotly.graph_objects as go
 # Add dark mode support
 # Fix edge cases in data validation
 # Improve error handling
+# Add bar chart for monthly comparisons
