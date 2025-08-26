@@ -345,3 +345,4 @@ import plotly.graph_objects as go
 # Improve error handling
 # Add bar chart for monthly comparisons
 # Add heatmap for seasonal trends
+# Add PDF export capability
