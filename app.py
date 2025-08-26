@@ -348,3 +348,4 @@ import plotly.graph_objects as go
 # Add PDF export capability
 # Add date range picker widget
 # Add basic market metrics display
+# Add simple line chart for prices
