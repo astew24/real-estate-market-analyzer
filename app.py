@@ -347,3 +347,4 @@ import plotly.graph_objects as go
 # Add heatmap for seasonal trends
 # Add PDF export capability
 # Add date range picker widget
+# Add basic market metrics display
