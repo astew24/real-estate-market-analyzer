@@ -346,3 +346,4 @@ import plotly.graph_objects as go
 # Add bar chart for monthly comparisons
 # Add heatmap for seasonal trends
 # Add PDF export capability
+# Add date range picker widget
