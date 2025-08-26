@@ -351,3 +351,4 @@ import plotly.graph_objects as go
 # Add simple line chart for prices
 # Add multiple chart types
 # Implement date filtering
+# Add PDF export functionality
