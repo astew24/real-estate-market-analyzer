@@ -349,3 +349,4 @@ import plotly.graph_objects as go
 # Add date range picker widget
 # Add basic market metrics display
 # Add simple line chart for prices
+# Add multiple chart types
